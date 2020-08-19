@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **TechStuffBoy/TechStuffBoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi There,
+
+Thank you so much for checking out my profile.
+
+I'm a minimalist, committed, self-taught web developer. I have a lot of experience with Backend Development, Firmware Development. I have made a lot of contributions to the Internet of Things. I am always passionate about the technology and the way it helps pepople solve their problems.
