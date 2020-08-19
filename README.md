@@ -19,4 +19,17 @@ Here are some ideas to get you started:
 
 Thank you so much for checking out my profile.
 
-I'm a minimalist, committed, self-taught web developer. I have a lot of experience with Backend Development, Firmware Development. I have made a lot of contributions to the Internet of Things. I am always passionate about the technology and the way it helps pepople solve their problems.
+I'm a minimalist, committed, **self-taught** web developer. I have a lot of experience with **Backend Development**, **Firmware Development**. I have made a lot of contributions to the **Internet of Things**. I am always passionate about the technology and the way it helps pepople solve their problems.
+
+## What am I good at?
+
+
+
+## What am i learning?
+
+
+
+## Whats my interest?
+
+
+
