@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 Thank you so much for checking out my profile.
 
-I'm a minimalist, committed, **self-taught** web developer. I have a lot of experience with **Backend Development**, **Firmware Development**. I have made a lot of contributions to the **Internet of Things**. I am always passionate about the technology and the way it helps pepople solve their problems.
+I'm a minimalist, committed, **self-taught** developer. I am always **passionate** about the technology and the way it helps people solve their problems.
 
 **What am I good at?**
 ```
@@ -38,10 +38,10 @@ IOT Protocols           : 	MQTT, 6lowPAN I2C, SPI, UART, RS-485, Ethernet Powerl
 Hardware                : 	Raspberry Pi, Arduino
 MISC                    : 	Kernel Compilation, FPGA, Xilinx Petalinux.
 ```
+I basically want to be a **full-stack** web developer. I do have couple of full-stack projects, which you can find in my github page/My Website.
 
 **What am i learning?**
 ```
-I basically want to be a full stack developer.
 Django Framework
 Javascript
 ```
@@ -51,6 +51,6 @@ Aqua Scaping.
 Body Building.
 Space venturig.
 ```
-
-
-
+```
+Happy Coding 😉 ..
+```
