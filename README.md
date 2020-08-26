@@ -31,7 +31,7 @@ Firmware Development.
 **What am i learning?**
 ```
 I basically want to be a full stack developer.
-Django
+Django Framework
 Javascript
 ```
 **Whats my interest?**
