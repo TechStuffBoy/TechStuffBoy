@@ -36,6 +36,9 @@ MISC                    : 	Kernel Compilation, FPGA, Xilinx Petalinux.
 ```
 I basically want to be a **full-stack** web developer. I do have couple of full-stack projects, which you can find in my github page/My Website.
 
+**Git Stats of my Private Repos**
+![alt text](https://github.com/TechStuffBoy/TechStuffBoy/blob/master/Nandha-TillAug.png)
+
 **What am i learning?**
 ```
 Django Framework
