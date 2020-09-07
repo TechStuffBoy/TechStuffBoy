@@ -25,7 +25,7 @@ Firmware Development(IOT).
 ```
 **Technical Skills:**
 ```
-Languages and Framework : 	Python, Java, C, HTML, CSS, Flask, Bootstrap 4
+Languages and Framework : 	Python, HTML, CSS3, Flask(Python), Bootstrap 4, Java, C
 Version Control         : 	GIT
 Database and ORM        :       MySQL/Postgres, SQLite, SQL Alchemy ORM
 OS                      : 	Mac, Ubuntu, Windows 10[WSL]
@@ -35,14 +35,18 @@ Hardware                : 	Raspberry Pi, Arduino
 MISC                    : 	Kernel Compilation, FPGA, Xilinx Petalinux.
 ```
 I basically want to be a **full-stack** web developer. I do have couple of full-stack projects, which you can find in my github page/My Website.
+Please have a look at my Git Contribution Stats below which includes both private and public repos.
 
 **Git Stats of my Private Repos**
+<!--
 ![alt text](https://github.com/TechStuffBoy/TechStuffBoy/blob/master/Nandha-TillAug.png)
+-->
+
 
 **What am i learning?**
 ```
-Django Framework
-Javascript
+Frameworks : Django(Python)
+Languages : Javascript
 ```
 **Whats my interest?**
 ```
