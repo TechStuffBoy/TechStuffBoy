@@ -47,7 +47,7 @@ Please have a look at my Git Contribution Stats below which includes both privat
 
 **What am i learning?**
 ```
-Frameworks : Django(Python)
+Frameworks : Django(Python), React JS (Javascript)
 ```
 **Whats my interest?**
 ```
