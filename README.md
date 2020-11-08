@@ -25,13 +25,13 @@ Firmware Development(IOT).
 ```
 **Technical Skills:**
 ```
-Languages and Framework : 	Python, HTML, CSS3, Javascript, Flask(Python), Bootstrap 4, Java, C
-Version Control         : 	GIT
-Database and ORM        :       MySQL/Postgres, SQLite, SQL Alchemy ORM
-OS                      : 	Mac, Ubuntu, Windows 10[WSL]
-Cloud Technologies      : 	AWS EC2, Heroku, Linode
-IOT Protocols           : 	MQTT, 6lowPAN I2C, SPI, UART, RS-485, Ethernet Powerlink (IEC 61158)
-Hardware                : 	Raspberry Pi, Arduino
+Languages and Framework : 	Python, Flask(Python), HTML5, CSS3, Javascript, Bootstrap 4, C, Java.
+Version Control         : 	GIT.
+Database and ORM        :       MySQL/Postgres, SQLite, SQL Alchemy ORM.
+OS                      : 	Mac, Ubuntu, Windows 10[WSL].
+Cloud Technologies      : 	AWS EC2, Heroku, Linode.
+IOT Protocols           : 	MQTT, 6lowPAN, I2C, SPI, UART, RS-485, Ethernet Powerlink (IEC 61158).
+Hardware                : 	Raspberry Pi, Arduino.
 MISC                    : 	Kernel Compilation, FPGA, Xilinx Petalinux.
 ```
 I basically want to be a **full-stack** web developer. I do have couple of full-stack projects, which you can find in my github page/My Website.
