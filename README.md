@@ -28,13 +28,15 @@ Firmware Development(IOT).
 Languages          
   Primary           :  Python, Javascript(ES6+), C.
   Secondary         :  Java.
+  
+Web Technologies.   :  HTML5, CSS3, Bootstrap.
 
 Frameworks          :  Django, Flask, React JS.
 Database            :  MySQL, POSTgreSQL, SQLite.
 ORMs                :  Django ORM, SQLAlchemy.
 
-Web Technologies.   : HTML5, CSS3, Bootstrap.
-Version Control     :  GIT.
+
+Version Control     :  Git.
 OS                  :  Mac, Ubuntu, Windows 10[WSL].
 Cloud Technologies  :  AWS EC2, Heroku, Linode.
 
@@ -67,7 +69,6 @@ Frameworks : Django(Python), React JS (Javascript)
 ```
 Happy Coding 😉 ..
 ```
-
 
 ```
 You can checkout my Web Resume here,
