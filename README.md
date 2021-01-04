@@ -29,7 +29,7 @@ Languages
   Primary           :  Python, Javascript(ES6+), C.
   Secondary         :  Java.
   
-Web Technologies.   :  HTML5, CSS3, Bootstrap.
+Web Technologies    :  HTML5, CSS3, Bootstrap.
 
 Frameworks          :  Django, Flask, React JS.
 Database            :  MySQL, POSTgreSQL, SQLite.
