@@ -25,14 +25,23 @@ Firmware Development(IOT).
 ```
 **Technical Skills:**
 ```
-Languages and Framework : 	Python, Flask(Python), HTML5, CSS3, Javascript, Bootstrap 4, C, Java.
-Version Control         : 	GIT.
-Database and ORM        :       MySQL/Postgres, SQLite, SQL Alchemy ORM.
-OS                      : 	Mac, Ubuntu, Windows 10[WSL].
-Cloud Technologies      : 	AWS EC2, Heroku, Linode.
-IOT Protocols           : 	MQTT, 6lowPAN, I2C, SPI, UART, RS-485, Ethernet Powerlink (IEC 61158).
-Hardware                : 	Raspberry Pi, Arduino.
-MISC                    : 	Kernel Compilation, FPGA, Xilinx Petalinux.
+Languages          
+  Primary           :  Python, Javascript(ES6+), C.
+  Secondary         :  Java.
+
+Frameworks          :  Django, Flask, React JS.
+Database            :  MySQL, POSTgreSQL, SQLite.
+ORMs                :  Django ORM, SQLAlchemy.
+
+Web Technologies.   : HTML5, CSS3, Bootstrap.
+Version Control     :  GIT.
+OS                  :  Mac, Ubuntu, Windows 10[WSL].
+Cloud Technologies  :  AWS EC2, Heroku, Linode.
+
+IOT Protocols       :  MQTT, 6lowPAN, I2C, SPI, UART, RS-485, Ethernet Powerlink (IEC 61158).
+Hardware            :  Raspberry Pi, Arduino.
+MISC                :  Kernel Compilation, FPGA, Xilinx Petalinux.
+
 ```
 I basically want to be a **full-stack** web developer. I do have couple of full-stack projects, which you can find in my github page/My Website.
 
@@ -45,7 +54,7 @@ Please have a look at my Git Contribution Stats below which includes both privat
 -->
 
 
-**What am i learning?**
+**What am i tinkering More?**
 ```
 Frameworks : Django(Python), React JS (Javascript)
 ```
