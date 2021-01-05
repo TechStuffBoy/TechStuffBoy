@@ -22,6 +22,7 @@ I'm a minimalist, committed, **self-taught** developer. I am always **passionate
 Backend Development.
 Database Design and Implementation.
 Firmware Development(IOT).
+Frontend Development(Novice).
 ```
 **Technical Skills:**
 ```
