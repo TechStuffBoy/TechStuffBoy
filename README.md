@@ -46,7 +46,6 @@ Hardware            :  Raspberry Pi, Arduino.
 MISC                :  Kernel Compilation, FPGA, Xilinx Petalinux.
 
 ```
-I basically want to be a **full-stack** web developer. I do have couple of full-stack projects, which you can find in my github page/My Website.
 
 Please have a look at my Git Contribution Stats below which includes both private and public repos.
 
