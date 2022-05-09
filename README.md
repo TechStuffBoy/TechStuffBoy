@@ -27,7 +27,7 @@ Firmware Development(IOT) - Arduino, Raspberry Pis or any other Single Board Com
 ```
 🔭 I’m currently working on, (during sparetime)
   1. Fuel API (Powered by Flask) - An API to get petrol, diesel and LPG price for India. I could not find a better API for that, so Im building one - **40% Completed**. Using **AWS Lambda to handle millions of traffic on the fly, it can scale down and up as needed.**
-  2. A complete website for a Staffing Company (Powered by Django) - **50% completed** - Manage employees, staffs, Admins. Job Posting and Resume Submission and a Contact Form. I am yet have to furnish the UI part. (https://ntekglobal.herokuapp.com/)
+  2. A complete website for a Staffing Company (Powered by Django) - **50% completed** - Manage employees, staffs, Admins. Job Posting and Resume Submission and a Contact Form. I am yet to furnish the UI part. (https://ntekglobal.herokuapp.com/)
   3. Fuel, Exchange Rate Bot - Fuel Rates(Petrol/Diesel/LPG), Exchange Rates - **100% completed** - Project scrapes and sends out a notification over Telegram Channel on preset time. Deployed in an **AWS EC2 instance**. Currently given access to friends and families.
   4. GoldRate Notifier -  Gold/Silver Rates - **100% completed** - Project scrapes and sends out a notification over Telegram Channel on preset time. Thinking to extend it with SMS notifications. Deployed in an **AWS EC2** instance. Currently acccess given to few of Jwellery Shop Owners and families.
   5. Website to sell Service Offerings - Friend of mine approached me for selling her offerings like Pencil sketching, Portrait Drawing, Mandal Arts etc. All these service has fixed pricing and once the project is done, it will be delievered to the Customer's Address. **Yet to Start**
