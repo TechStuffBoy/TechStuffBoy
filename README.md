@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 
 I'm a minimalist, committed, **self-taught** developer. I am always **passionate** about the technology and the way it helps people solve their problems.
 
+![Nandhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=techstuffboy&count_private=true&show_icons=true&theme=radical&hide=stars,contribs)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=techstuffboy&repo=staffing_proto)](https://github.com/anuraghazra/github-readme-stats)
+
 **What am I Capable of?**
 ```
 Backend Development.
