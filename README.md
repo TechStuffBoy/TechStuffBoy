@@ -31,11 +31,11 @@ Frontend Development(Novice).
 Firmware Development(IOT) - Arduino, Raspberry Pis or any other Single Board Computers, Interfacing Sensors.
 ```
 🔭 I’m currently working on, (during sparetime)
-  1. **Fuel API** (Powered by Flask) - An API to get petrol, diesel and LPG price for India. I could not find a better API for that, so Im building one - **55% Completed**. Using **AWS Lambda to handle millions of traffic on the fly, it can scale down and up as needed.**
-  2. **A complete website for a Staffing Company** (Powered by Django) - **50% completed** - Manage employees, staffs, Admins. Job Posting and Resume Submission and a Contact Form. I am yet to furnish the UI part. (https://ntekglobal.herokuapp.com/)
+  1. **Fuel API** (Powered by Flask) - An API to get petrol, diesel and LPG price for India. I could not find a better API for that, so Im building one - **90% Completed**. Using **AWS Lambda to handle millions of traffic on the fly, it can scale down and up as needed.**
+  2. **A complete website for a Staffing Company** (Powered by Django) - **75% completed** - Manage employees, staffs, Admins. Job Posting and Resume Submission and a Contact Form. I am yet to furnish the UI part. (https://ntekglobal.herokuapp.com/)
   3. **Fuel, Exchange Rate Bot** (Powered by Python) - Fuel Rates(Petrol/Diesel/LPG), Exchange Rates - **100% completed** - Project scrapes and sends out a notification over Telegram Channel on preset time. Deployed in an **AWS EC2 instance**. Currently given access to friends and families.
   4. **GoldRate Notifier** (Powered by Python) -  Gold/Silver Rates - **100% completed** - Project scrapes and sends out a notification over Telegram Channel on preset time. Thinking to extend it with SMS notifications. Deployed in an **AWS EC2** instance. Currently acccess given to few of Jwellery Shop Owners and families.
-  5. **DreamCandle** (Powered by Django) - My Wife is passion towards making Homemade candles. It actually gives a pleasent odour and can be a great fit for Dates, Candle-Light-Dinners or even for personal use. To make a websore to list the offerings, accepts order through payments and ship to the end customers.  **Yet to Start**
+  5. **DreamCandle** (Powered by Django) - My Wife is passion towards making Homemade candles. It actually gives a pleasent odour and can be a great fit for Dates, Candle-Light-Dinners or even for personal use. To make a websore to list the offerings, accepts order through payments and ship to the end customers.  **[Yet to Start]**
   
 
 **Technical Skills:**
