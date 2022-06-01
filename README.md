@@ -35,7 +35,7 @@ Firmware Development(IOT) - Arduino, Raspberry Pis or any other Single Board Com
   2. **A complete website for a Staffing Company** (Powered by Django) - **75% completed** - Manage employees, staffs, Admins. Job Posting and Resume Submission and a Contact Form. I am yet to furnish the UI part. (https://ntekglobal.herokuapp.com/)
   3. **Fuel, Exchange Rate Bot** (Powered by Python) - Fuel Rates(Petrol/Diesel/LPG), Exchange Rates - **100% completed** - Project scrapes and sends out a notification over Telegram Channel on preset time. Deployed in an **AWS EC2 instance**. Currently given access to friends and families.
   4. **GoldRate Notifier** (Powered by Python) -  Gold/Silver Rates - **100% completed** - Project scrapes and sends out a notification over Telegram Channel on preset time. Thinking to extend it with SMS notifications. Deployed in an **AWS EC2** instance. Currently acccess given to few of Jwellery Shop Owners and families.
-  5. **DreamCandle** (Powered by Django) - My Wife is passion towards making Homemade candles. It actually gives a pleasent odour and can be a great fit for Dates, Candle-Light-Dinners or even for personal use. To make a websore to list the offerings, accepts order through payments and ship to the end customers.  **[Yet to Start]**
+  5. **DreamCandle** (Powered by Django) - My wife has a strong interest in producing homemade candles. It has a pleasant odour and is suitable for Dates, Candle-Light Dinners, or simply personal usage. To create a website that lists the offers, receives payments, and ships to the end clients.  **[Yet to Start]**
   
 
 **Technical Skills:**
