@@ -22,7 +22,7 @@ I'm a minimalist, committed, **self-taught** developer. I am always **passionate
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=techstuffboy&repo=staffing_proto)](https://github.com/anuraghazra/github-readme-stats)
 -->
-**What am I Capable of?**
+# What am I Capable of?
 ```
 Backend Development.
 Web Scraping.
@@ -30,7 +30,8 @@ Database Design and Implementation.
 Frontend Development(Novice).
 Firmware Development(IOT) - Arduino, Raspberry Pis or any other Single Board Computers, Interfacing Sensors.
 ```
-🔭 I’m currently working on, (during sparetime)
+
+# 🔭 I’m currently working on, (during sparetime)
   1. **Fuel API** (Powered by Flask) - An API to get petrol, diesel and LPG price for India. I could not find a better API for that, so Im building one - **100% Completed**. Using **AWS Lambda to handle millions of traffic on the fly, it can scale down and up as needed.** [https://github.com/TechStuffBoy/p_fuel_api]
   2. **A complete website for a Staffing Company** (Powered by Django) - **75% completed** - Manage employees, staffs, Admins. Job Posting and Resume Submission and a Contact Form. I am yet to furnish the UI part. (https://ntekglobal.herokuapp.com/)
   3. **Fuel, Exchange Rate Bot** (Powered by Python) - Fuel Rates(Petrol/Diesel/LPG), Exchange Rates - **100% completed** - Project scrapes and sends out a notification over Telegram Channel on preset time. Deployed in an **AWS EC2 instance**. Currently given access to friends and families.
@@ -38,7 +39,10 @@ Firmware Development(IOT) - Arduino, Raspberry Pis or any other Single Board Com
   5. **DreamCandle** (Powered by Django) - My wife has a strong interest in producing homemade candles. It has a pleasant odour and is suitable for Dates, Candle-Light Dinners, or simply personal usage. To create a website that lists the offers, receives payments, and ships to the end clients.  **[Yet to Start]**
   
 
-**Technical Skills:**
+# Pinned Repositories
+Request you all to have a look at my pinned repositories below
+
+# Technical Skills:
 ```
 Languages          
   Primary           :  Python, Javascript(ES6+), C.
@@ -70,17 +74,19 @@ Please have a look at my Git Contribution Stats below which includes both privat
 -->
 
 
-**What am i tinkering More?**
+# What am i tinkering More?
 ```
 Frameworks : Django(Python), React JS (Javascript)
 Devops : Docker and Docker-Compose.
 ```
-**Whats my interest?**
+# Whats my interest?
 ```
 - Aqua Scaping ...
 - Body Building ...
 - Space venturing ...
 ```
+# Quotes
 ```
+Do what you love and love what you do!
 Happy Coding 😉 ..
 ```
