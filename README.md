@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# Hey! Im Nandha!
+
 I'm a minimalist, committed, **self-taught** developer. I am always **passionate** about the technology and the way it helps people solve their problems.
 
 <!--
