@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hey! Im Nandha!
+# Hey!  I'm Nandha!
 
 I'm a minimalist, committed, **self-taught** developer. I am always **passionate** about the technology and the way it helps people solve their problems.
 
@@ -42,7 +42,7 @@ Firmware Development(IOT) - Arduino, Raspberry Pis or any other Single Board Com
   
 
 # Pinned Repositories
-Request you all to have a look at my pinned repositories below
+Request you all to have a look at my pinned repositories below.
 
 # Technical Skills:
 ```
