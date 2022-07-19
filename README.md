@@ -39,6 +39,7 @@ Firmware Development(IOT) - Arduino, Raspberry Pis or any other Single Board Com
   3. **Fuel, Exchange Rate Bot** (Powered by Python) - Fuel Rates(Petrol/Diesel/LPG), Exchange Rates - **100% completed** - Project scrapes and sends out a notification over Telegram Channel on preset time. Deployed in an **AWS EC2 instance**. Currently given access to friends and families. [https://github.com/TechStuffBoy/p_fuel_inr_grocery]
   4. **GoldRate Notifier** (Powered by Python) -  Gold/Silver Rates - **100% completed** - Project scrapes and sends out a notification over Telegram Channel on preset time. Thinking to extend it with SMS notifications. Deployed in an **AWS EC2** instance. Currently acccess given to few of Jwellery Shop Owners and families. [https://github.com/TechStuffBoy/p_gold_rate_notifier]
   5. **DreamCandle** (Powered by Django) - My wife has a strong interest in producing homemade candles. It has a pleasant odour and is suitable for Dates, Candle-Light Dinners, or simply personal usage. To create a website that lists the offers, receives payments, and ships to the end clients.  **[Yet to Start]**
+  6. Kantactz - AddressBook Management Web App (Powered by Django) - Users can signup and manage their contacts. [https://github.com/TechStuffBoy/Kantactz]. Not yet deployed, will do in sometime.
   
 
 # Pinned Repositories
