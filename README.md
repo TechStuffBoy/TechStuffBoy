@@ -25,13 +25,13 @@ I'm a minimalist, committed, **self-taught** developer. I am always **passionate
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=techstuffboy&repo=staffing_proto)](https://github.com/anuraghazra/github-readme-stats)
 -->
 # What am I Capable of?
-```
-Backend Development.
-Web Scraping.
-Database Design and Implementation.
-Frontend Development(Novice).
-Firmware Development(IOT) - Arduino, Raspberry Pis or any other Single Board Computers, Interfacing Sensors.
-```
+
+* Backend Development.
+* Web Scraping.
+* Database Design and Implementation.
+* Frontend Development(Novice).
+* Firmware Development(IOT) - Arduino, Raspberry Pis or any other Single Board Computers, Interfacing Sensors.
+
 
 # 🔭 I’m currently working on, (during sparetime)
   1. **Fuel API** (Powered by Flask) - An API to get petrol, diesel and LPG price for India. I could not find a better API for that, so Im building one - **100% Completed**. Using **AWS Lambda to handle millions of traffic on the fly, it can scale down and up as needed.** [https://github.com/TechStuffBoy/p_fuel_api]
@@ -78,16 +78,17 @@ Please have a look at my Git Contribution Stats below which includes both privat
 
 
 # What am i tinkering More?
-```
-Frameworks : Django(Python), React JS (Javascript)
-Devops : Docker and Docker-Compose.
-```
+
+* **Frameworks :** Django(Python), React JS (Javascript)
+* **Devops :** Docker and Docker-Compose.
+
 # Whats my interest?
-```
-- Aqua Scaping ...
-- Body Building ...
-- Space venturing ...
-```
+
+* Aqua Scaping
+* Body Building
+* Space venturing
+
+
 # Quotes
 ```
 Do what you love and love what you do!
