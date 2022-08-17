@@ -90,7 +90,7 @@ Please have a look at my Git Contribution Stats below which includes both privat
 
 
 # Quotes
-```
-Do what you love and love what you do!
-Happy Coding 😉 ..
-```
+
+* Do what you love and love what you do!
+* Happy Coding 😉
+
