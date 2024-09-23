@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Hey!  I'm Nandha!
 
-I'm a minimalist, committed, **self-taught** developer. I am always **passionate** about the technology and the way it helps people solve their problems.
+Minimalist, committed, **self-taught** developer. I am always **passionate** about the technology and the way it helps people solve their problems.
 
 <!--
 ![Nandhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=techstuffboy&count_private=true&show_icons=true&theme=radical&hide=stars,contribs)
